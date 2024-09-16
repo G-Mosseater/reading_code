@@ -5,3 +5,7 @@ if (number > 5) {
 } else {
     document.getElementById("message").innerHTML = "Number is 5 or less";
 }
+// Variable 'number' takes a integer as a value
+// A if - else statement is created
+// if vlaue in number > 5  we insert the element 'message' into the document using .innerHTML property. The 'message' element takes a string value "Number is greater than 5"
+// else: the 'message' element value will be "Number is 5 or less"
